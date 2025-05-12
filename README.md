@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aparna
 - 👀 I’m interested in Web Development,Data Analysis,DevOps learner
-- 🌱 I’m currently pursuing Btech 3rd year
+- 🌱 I’m currently pursuing Btech 
 - 💞️ I’m looking to collaborate on: - Open-source projects related to web development.
        - Machine learning and AI research.
        - Data science projects and analytics.
